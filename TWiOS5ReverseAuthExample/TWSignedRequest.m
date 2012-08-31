@@ -34,8 +34,8 @@
 //  Important:  1) Your keys must be registered with Twitter to enable the reverse_auth endpoint
 //              2) You should obfuscate keys and secrets in your apps before shipping!
 
-#define CONSUMER_SECRET @""
-#define CONSUMER_KEY @""
+#define CONSUMER_SECRET @"EFNkWLfbhkqUKCHTQlvsyWWywqwptqM9nYiAVX879M"
+#define CONSUMER_KEY @"bMFlfu7xuwEdA5qSE8kKcA"
 
 @interface TWSignedRequest()
 {
